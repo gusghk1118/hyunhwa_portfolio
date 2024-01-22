@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 165 67.5">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 0 0 0 0 0 0 6 4;
+      }
+
+      .cls-3, .cls-5, .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 1.5px;
+      }
+
+      .cls-6, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6, .cls-7, .cls-4 {
+        isolation: isolate;
+      }
+
+      .cls-6, .cls-4 {
+        font-family: AppleMyungjo, AppleMyungjo;
+        font-size: 35.6px;
+        letter-spacing: 0em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-2" x="6.5" y="117" width="646.6" height="936.9"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-5" x="-30.5" y="-28" width="720" height="1280"/>
+  <g class="cls-1">
+    <image class="cls-7" width="1125" height="2436" transform="translate(6.7 -54.2) scale(.6)" xlink:href="../../Downloads/m_portfolio_sample.png"/>
+  </g>
+  <g>
+    <rect class="cls-5" x="13.8" y="11.6" width="137.6" height="43.6"/>
+    <g class="cls-7">
+      <text class="cls-6" transform="translate(50.6 45.5)"><tspan x="0" y="0">Lee</tspan></text>
+      <text class="cls-4" transform="translate(50.6 45.5)"><tspan x="0" y="0">Lee</tspan></text>
+    </g>
+    <line class="cls-3" x1="17" y1="15.5" x2="17" y2="51.7"/>
+    <line class="cls-3" x1="148.3" y1="15.5" x2="148.3" y2="51.7"/>
+  </g>
+</svg>
